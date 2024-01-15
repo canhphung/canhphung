@@ -1,5 +1,5 @@
 # 💫About Me :
-📔 I'm studying in high schoo
+📔 I'm studying in high school
 🔭 I'm currently working on Kuroland Network
 💠 You can ask me anything
 
