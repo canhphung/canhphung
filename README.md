@@ -1,8 +1,3 @@
-# 💫About Me :
-📔 I'm studying in high school<br>
-🔭 I'm currently working on Kuroland<br> Network<br>
-💠 You can ask me anything
-
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/canhphung2k) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/canhphung098) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/canhphung) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/kurozgaming) 
 
